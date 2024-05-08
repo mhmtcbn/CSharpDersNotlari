@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Algoritma", "1. Algoritm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Veri Tipleri", "2. Veri Tipleri\2. Veri Tipleri.csproj", "{C0DED70C-68C1-44A7-9B33-96D4DF4B8B31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Operatorler", "3. Operatorler\3. Operatorler.csproj", "{AA7F2243-2E47-4E62-92C0-D30E53BFA204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C0DED70C-68C1-44A7-9B33-96D4DF4B8B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DED70C-68C1-44A7-9B33-96D4DF4B8B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DED70C-68C1-44A7-9B33-96D4DF4B8B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7F2243-2E47-4E62-92C0-D30E53BFA204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7F2243-2E47-4E62-92C0-D30E53BFA204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7F2243-2E47-4E62-92C0-D30E53BFA204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7F2243-2E47-4E62-92C0-D30E53BFA204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
