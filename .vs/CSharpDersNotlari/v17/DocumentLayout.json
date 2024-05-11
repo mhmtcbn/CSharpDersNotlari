@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\CSharpDersNotlari\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D1C07-A016-4430-9732-2C0720C552BA}|8. Diziler\\8. Diziler.csproj|d:\\projects\\csharpdersnotlari\\8. diziler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D1C07-A016-4430-9732-2C0720C552BA}|8. Diziler\\8. Diziler.csproj|solutionrelative:8. diziler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0607C17F-F86B-4B80-BD71-C0A0D16AD51E}|7. D\u00F6ng\u00FCler\\7. D\u00F6ng\u00FCler.csproj|d:\\projects\\csharpdersnotlari\\7. d\u00F6ng\u00FCler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0607C17F-F86B-4B80-BD71-C0A0D16AD51E}|7. D\u00F6ng\u00FCler\\7. D\u00F6ng\u00FCler.csproj|solutionrelative:7. d\u00F6ng\u00FCler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharpDersNotlari\\8. Diziler\\Program.cs",
+              "RelativeDocumentMoniker": "8. Diziler\\Program.cs",
+              "ToolTip": "D:\\Projects\\CSharpDersNotlari\\8. Diziler\\Program.cs",
+              "RelativeToolTip": "8. Diziler\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:45:28.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharpDersNotlari\\7. D\u00F6ng\u00FCler\\Program.cs",
+              "RelativeDocumentMoniker": "7. D\u00F6ng\u00FCler\\Program.cs",
+              "ToolTip": "D:\\Projects\\CSharpDersNotlari\\7. D\u00F6ng\u00FCler\\Program.cs",
+              "RelativeToolTip": "7. D\u00F6ng\u00FCler\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwNEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:57:33.41Z",
+              "EditorCaption": ""
             }
           ]
         }
