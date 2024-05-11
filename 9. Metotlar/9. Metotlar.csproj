@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{90D68F95-7FED-4ECB-8BCB-93AD42FC39DF}</ProjectGuid>
+    <ProjectGuid>{2D3642E6-6EB8-4E27-B8A2-CB897E4C0E20}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_9.Metotlar</RootNamespace>
     <AssemblyName>_9.Metotlar</AssemblyName>
